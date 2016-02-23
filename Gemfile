@@ -9,6 +9,7 @@ gem 'mongoid-paperclip', :require => "mongoid_paperclip"
 gem 'mongoid_userstamp'
 gem 'mongoid-history'
 
+gem 'turbolinks'  
 gem 'font-awesome-sass'
 gem 'bootstrap-sass'
 gem 'sass-rails'
