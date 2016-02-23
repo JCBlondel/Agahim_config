@@ -18,6 +18,7 @@ Bundle 'nelstrom/vim-textobj-rubyblock'
 Bundle 'slim-template/vim-slim'
 Bundle 'burnettk/vim-angular'
 Bundle 'alvan/vim-closetag'
+Bundle 'Raimondi/delimitMate'
 
 filetype plugin indent on
 
